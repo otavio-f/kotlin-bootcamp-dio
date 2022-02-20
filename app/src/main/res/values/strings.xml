@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">To Do List</string>
+    <string name="tasks">Tarefas</string>
+    <string name="content_description_add_new_task">Adicionar nova tarefa</string>
+    <string name="create_task">Criar Tarefa</string>
+    <string name="task_title">Título</string>
+    <string name="task_description">Descrição</string>
+    <string name="task_date">Data</string>
+    <string name="task_start_time">Hora</string>
+    <string name="task_save">Criar Tarefa</string>
+    <string name="task_cancel_edit">Cancelar</string>
+    <string name="item_action_edit">Editar</string>
+    <string name="item_action_delete">Deletar</string>
+    <string name="no_tasks_text">Você não possui\nnenhuma tarefa</string>
+    <string name="err_incomplete_data">Dados incompletos</string>
+    <string name="err_te_title_missing">Falta um título</string>
+    <string name="err_te_description_missing">Falta uma descrição</string>
+    <string name="err_te_date_missing">Falta uma data</string>
+    <string name="err_te_start_time_missing">Falta uma hora</string>
+</resources>
